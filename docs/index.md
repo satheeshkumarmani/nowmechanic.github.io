@@ -1,6 +1,9 @@
-<!DOCTYPE html>
+
 <html>
 <body>
+<marquee width="60%" direction="down" height="100px">
+This is a sample scrolling text that has scrolls texts to down.
+</marquee>
 
 <h2>Basic HTML Table</h2>
 
